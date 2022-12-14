@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone",
+        "price": 14000,
+        "link": "https://www.apple.com/se/iphone-14/",
+        "prio": 1
+    },
+    {
+        "name": "Pixel 7 Pro",
+        "price": "9990",
+        "link": "https://store.google.com/se/product/pixel_7_pro?hl=sv&pli=1",
+        "prio": "1",
+        "id": 2
+    },
+    {
+        "name": "Samsung Galaxy Tab S6",
+        "price": "2790",
+        "link": "https://www.mediamarkt.se/sv/product/_samsung-galaxy-tab-s6-lite-wifi-64gb-surfplatta-oxford-gray-1347824.html?utm_source=google&utm_medium=cpc&utm_campaign=bb-shopping-generic&utm_term=&utm_content=1347824&gclid=CjwKCAiAheacBhB8EiwAItVO2zbXtsnm6GvWnOuehZnA4UMvdRF0iYzF-fS-OkkmQrbMS717BCp-qRoCNp8QAvD_BwE",
+        "prio": "2",
+        "id": 3
+    },
+    {
+        "name": "Strumpor",
+        "price": "99",
+        "link": "https://www.happysocks.com/se/product/XNCG09-9300?gclid=CjwKCAiAheacBhB8EiwAItVO27prVzc3EvvWghp2WGbEEhtQrQErZrExOaqxCXyeeMY4UFn5XkSnCRoCEwkQAvD_BwE",
+        "prio": "3",
+        "id": 4
+    }
+]
